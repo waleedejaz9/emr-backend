@@ -59,4 +59,4 @@ jobs:
           app-name: 'emr-web-app-1'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_165B3B8A3D54489FA2AB456F3CA95376 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1A0488C343DE491A80E7F34F6E3A2184 }}
